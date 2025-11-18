@@ -60,7 +60,7 @@ Major cleaning steps included:
 - [x] **Removing unused CIUS columns** (hundreds of irrelevant items)
 
 
-# 📊 Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 **File:** `CIUS_Social_Media_EDA.ipynb`
 
 ### 🔹 Scope of Analysis

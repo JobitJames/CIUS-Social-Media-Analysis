@@ -78,3 +78,14 @@ Major cleaning steps included:
 * **Interference:** Most respondents report no interference, but the “Yes” segment is statistically significant.
 * **AI Adoption:** AI awareness (specifically chatbots & emails) is rising across all age cohorts.
 * **Social Correlation:** Relationship satisfaction **decreases** as online contact frequency increases.
+
+## Tech Stack
+
+| Category | Tools Used |
+| :--- | :--- |
+| **Languages** | Python (v3.x) |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
+| **IDE / Editor** | Jupyter Notebook |
+| **BI Tool** | Tableau Public |
+| **Data Source** | Statistics Canada CIUS 2022 PUMF |
+| **Version Control** | GitHub |

@@ -86,6 +86,6 @@ Major cleaning steps included:
 | **Languages** | Python (v3.x) |
 | **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
 | **IDE / Editor** | Jupyter Notebook |
-| **BI Tool** | Tableau Public |
 | **Data Source** | Statistics Canada CIUS 2022 PUMF |
-| **Version Control** | GitHub |
+| **BI Tool** | Tableau Public |
+

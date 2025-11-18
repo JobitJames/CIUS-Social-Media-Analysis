@@ -12,7 +12,7 @@ Using the Canadian Internet Use Survey (CIUS 2022) Public Microdata File (PUMF),
 - Built interactive Tableau dashboards
 
 
-## 💾 Data Source
+## Data Source
 
 ### 📌 Source
 The analysis relies on data from the **Canadian Internet Use Survey (CIUS) – 2022**.

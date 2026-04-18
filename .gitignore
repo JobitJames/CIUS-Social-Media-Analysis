@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / outputs (optional — remove if you WANT to upload data)
+*.zip
+*.pkl
+*.csv
+*.twb
+*.twbx
+4432_CIUS_ECUI_2022/
+Data/
+Social*
+
+# OS
+.DS_Store
+Thumbs.db
+*.pdf

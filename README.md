@@ -89,3 +89,16 @@ Major cleaning steps included:
 | **Data Source** | Statistics Canada CIUS 2022 PUMF |
 | **BI Tool** | Tableau Public |
 
+---
+
+## Credits and References
+**Dataset Reference:**
+The primary dataset used for this analysis is the **Canadian Internet Use Survey (CIUS), 2022**, provided by Statistics Canada. We utilized the Public Use Microdata File (PUMF).
+All rights, title, and interest in the data belong to Statistics Canada.
+
+**Credits:**
+- Data Provider: Statistics Canada
+- Survey Name: Canadian Internet Use Survey (CIUS) 2022
+- Formats used: `.sas7bdat` adapted to `.csv` for analysis
+
+*Note: The dataset files provided in this repository are processed, cleaned, or filtered subsets based on the original PUMF for the purposes of this Capstone Project.*
